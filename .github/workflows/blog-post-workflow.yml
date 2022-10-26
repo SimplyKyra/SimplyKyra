@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Pull in my blog posts
-        uses: SimplyKyra/blog-post-workflow@v1
+        uses: SimplyKyra@v1
         with:
           feed_list: "http://simplykyra.com/feed"

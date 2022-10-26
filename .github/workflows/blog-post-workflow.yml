@@ -9,7 +9,7 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Pull in dev.to posts
-        uses: simplykyra.com/
+      - name: Pull in my blog posts
+        uses: simplykyra.com/blog-post-worflow@v1
         with:
           feed_list: "http://simplykyra.com/feed"

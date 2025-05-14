@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kyra — aka **SimplyKyra**
+# 👋 Hi, I'm Kyra a.k.a. **SimplyKyra**
 
 I'm a curious indie developer and blogger who loves building small things that make life simpler whether that’s a playful iOS game, a reMarkable tablet tool, or a code-powered solution I just had to blog about.
 
@@ -36,6 +36,13 @@ Swift • SwiftUI • Ghost • Xcode • GitHub • Canva
 ![Ghost Customizer](https://img.shields.io/badge/Ghost_Theme_Tweaker-%2360364f?style=plastic&logo=ghost&logoColor=white)
 ![SimplyKyra](https://img.shields.io/badge/SimplyKyra-Builds_With_Purpose-%2360364f?style=plastic&labelColor=white)
 
+---
+
+## 📊 My GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyKyra&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=60364f)
+
+![Kyra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimplyKyra&show_icons=true&theme=default&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=60364f&cache_seconds=60)
 
 ---
 
@@ -44,5 +51,10 @@ Swift • SwiftUI • Ghost • Xcode • GitHub • Canva
 - 🌐 [SimplyKyra.com](https://www.simplykyra.com) – blog, app updates, and more
 
 ---
+
+
+## 🤝 Let’s Collaborate
+
+Whether you're building something for reMarkable, need help with SwiftUI, or want to chat about custom blog setups I'd love to hear from you.
 
 _Thanks for stopping by! If you're building something interesting or want to connect, feel free to reach out._ 💬

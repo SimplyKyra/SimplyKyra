@@ -42,6 +42,9 @@ Swift • SwiftUI • Ghost • Xcode • GitHub • Canva
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimplyKyra&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=60364f)
 
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SimplyKyra&hide_border=true&background=60364f&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff)](https://git.io/streak-stats)-->
+
+
 <!-- ![Kyra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimplyKyra&show_icons=true&theme=default&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=60364f&cache_seconds=60) -->
 
 ---

@@ -1,12 +1,48 @@
-Hello World! 👋
+# 👋 Hi, I'm Kyra — aka **SimplyKyra**
 
-You can find me at SimplyKyra.com!
+I'm a curious indie developer and blogger who loves building small things that make life simpler whether that’s a playful iOS game, a reMarkable tablet tool, or a code-powered solution I just had to blog about.
 
-<!---
-SimplyKyra/SimplyKyra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!---
-# Latest blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+On [SimplyKyra.com](https://www.simplykyra.com) you’ll find practical tutorials, app updates, and behind-the-scenes peeks at my creative experiments—from SwiftUI quirks to Ghost theme tweaks.
+
+---
+
+## ✨ What I Make
+
+### 📱 Thoughtful Apple Apps
+Clean, useful apps designed with intention:
+- [Simply Customize It](https://www.simplykyra.com/simply-customize-it/) – tailor your reMarkable tablet with ease.
+- [Simply Match It](https://www.simplykyra.com/simply-match-it/) – a fun emoji-matching game built for family playdates.
+- [Simply Uncover It](https://www.simplykyra.com/simply-uncover-it/) – a clean, modern twist on a classic puzzle.
+
+### 🧰 Creative Coding Solutions
+From SwiftUI components to debugging edge cases, I share what I learn:
+- Proud of my [custom SwiftUI picker](https://github.com/SimplyKyra/SimplyKyraBlog) that grew out of a [tutorial post](https://www.simplykyra.com/blog/update-to-my-custom-picker-with-multi-selection-in-swiftui-now-with-images/)
+- Blog-first mindset: code that solves real problems and gets explained along the way
+
+### ✍️ Tutorials for Real People
+Most often about Swift, SwiftUI, and Ghost—always focused on clarity and practical use.
+
+---
+
+## 🛠 Tools I Enjoy
+Swift • SwiftUI • Ghost • Xcode • GitHub • Canva
+
+---
+
+## 🏷️ Brand-Aligned Badges
+
+![Swift Developer](https://img.shields.io/badge/Swift_Developer-%2360364f?style=plastic&logo=swift&logoColor=white)
+![rM](https://img.shields.io/badge/rM-reMarkable_Tools-%2360364f?style=plastic&labelColor=white)
+![Ghost Customizer](https://img.shields.io/badge/Ghost_Theme_Tweaker-%2360364f?style=plastic&logo=ghost&logoColor=white)
+![SimplyKyra](https://img.shields.io/badge/SimplyKyra-Builds_With_Purpose-%2360364f?style=plastic&labelColor=white)
+
+
+---
+
+## 🔗 Explore More
+- 📝 [SimplyKyraBlog](https://github.com/SimplyKyra/SimplyKyraBlog) – code behind my tutorials
+- 🌐 [SimplyKyra.com](https://www.simplykyra.com) – blog, app updates, and more
+
+---
+
+_Thanks for stopping by! If you're building something interesting or want to connect, feel free to reach out._ 💬

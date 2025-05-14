@@ -2,7 +2,7 @@
 
 I'm a curious indie developer and blogger who loves building small things that make life simpler whether that’s a playful iOS game, a reMarkable tablet tool, or a code-powered solution I just had to blog about.
 
-On [SimplyKyra.com](https://www.simplykyra.com) you’ll find practical tutorials, app updates, and behind-the-scenes peeks at my creative experiments—from SwiftUI quirks to Ghost theme tweaks.
+On [SimplyKyra.com](https://www.simplykyra.com) you’ll find practical tutorials, app updates, and behind-the-scenes peeks at my creative experiments from SwiftUI quirks to Ghost theme tweaks. Beyond code there's also life with kids, sewing, and more. 
 
 ---
 
@@ -13,6 +13,7 @@ Clean, useful apps designed with intention:
 - [Simply Customize It](https://www.simplykyra.com/simply-customize-it/) – tailor your reMarkable tablet with ease.
 - [Simply Match It](https://www.simplykyra.com/simply-match-it/) – a fun emoji-matching game built for family playdates.
 - [Simply Uncover It](https://www.simplykyra.com/simply-uncover-it/) – a clean, modern twist on a classic puzzle.
+- And working on more. <3
 
 ### 🧰 Creative Coding Solutions
 From SwiftUI components to debugging edge cases, I share what I learn:
@@ -25,7 +26,7 @@ Most often about Swift, SwiftUI, and Ghost—always focused on clarity and pract
 ---
 
 ## 🛠 Tools I Enjoy
-Swift • SwiftUI • Ghost • Xcode • GitHub • Canva
+Swift • SwiftUI • SwiftData • Ghost • Xcode • VSCode • iTerm • Vim • GitHub • Canva
 
 ---
 

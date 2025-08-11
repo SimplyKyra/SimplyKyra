@@ -11,6 +11,7 @@ On [SimplyKyra.com](https://www.simplykyra.com) you’ll find practical tutorial
 ### 📱 Thoughtful Apple Apps
 Clean, useful apps designed with intention:
 - [Simply Customize It](https://www.simplykyra.com/simply-customize-it/) – tailor your reMarkable tablet with ease.
+- [Simply Remember It](https://www.simplykyra.com/simply-remember-it/) – log when events happens. Less mental load.
 - [Simply Match It](https://www.simplykyra.com/simply-match-it/) – a fun emoji-matching game built for family playdates.
 - [Simply Uncover It](https://www.simplykyra.com/simply-uncover-it/) – a clean, modern twist on a classic puzzle.
 - And working on more. <3

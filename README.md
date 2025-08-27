@@ -3,6 +3,7 @@
 I'm a curious indie developer and blogger who loves building small things that make life simpler whether that’s a playful iOS game, a reMarkable tablet tool, or a code-powered solution I just had to blog about.
 
 On [SimplyKyra.com](https://www.simplykyra.com) you’ll find practical tutorials, app updates, and behind-the-scenes peeks at my creative experiments from SwiftUI quirks to Ghost theme tweaks. Beyond code there's also life with kids, sewing, and more. 
+I'm on socials under @SimplyKyraApps or @SimplyKyra.
 
 ---
 
